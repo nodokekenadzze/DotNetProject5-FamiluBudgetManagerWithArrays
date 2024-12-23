@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FamilyBudgetManagerWithMassives5P")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf07a716d1697002bfdab74457586e00d3a5468")]
 [assembly: System.Reflection.AssemblyProductAttribute("FamilyBudgetManagerWithMassives5P")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FamilyBudgetManagerWithMassives5P")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

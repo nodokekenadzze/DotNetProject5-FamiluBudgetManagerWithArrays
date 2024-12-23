@@ -1,0 +1,18 @@
+# Ignore the build output directory
+bin/
+obj/
+
+# Ignore user-specific files
+.vscode/
+
+# Ignore temporary files created by the operating system
+.DS_Store
+Thumbs.db
+
+# Ignore NuGet package cache
+.nuget/
+
+# Ignore .NET Core specific files (the build output and temporary files)
+*.dll
+*.exe
+*.pdb
