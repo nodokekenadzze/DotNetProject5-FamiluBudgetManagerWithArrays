@@ -1,19 +1,13 @@
-# Ignore the Visual Studio Code workspace settings
-.vscode/
-
 # Ignore the build output directory
 bin/
 obj/
 
+# Ignore user-specific files
+.vscode/
+
 # Ignore temporary files created by the operating system
 .DS_Store
 Thumbs.db
-
-# Ignore user-specific files
-*.user
-*.userosscache
-*.suo
-*.userprefs
 
 # Ignore NuGet package cache
 .nuget/
@@ -22,6 +16,4 @@ Thumbs.db
 *.dll
 *.exe
 *.pdb
-*.apk
-*.iOS
-*.app
+
