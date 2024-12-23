@@ -1,0 +1,27 @@
+# Ignore the Visual Studio Code workspace settings
+.vscode/
+
+# Ignore the build output directory
+bin/
+obj/
+
+# Ignore temporary files created by the operating system
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore NuGet package cache
+.nuget/
+
+# Ignore .NET Core specific files (the build output and temporary files)
+*.dll
+*.exe
+*.pdb
+*.apk
+*.iOS
+*.app

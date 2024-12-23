@@ -1,0 +1,14 @@
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.GeneratedMSBuildEditorConfig.editorconfig
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.AssemblyInfoInputs.cache
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.AssemblyInfo.cs
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.csproj.CoreCompileInputs.cache
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/bin/Debug/net8.0/FamilyBudgetManagerWithMassives5P
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/bin/Debug/net8.0/FamilyBudgetManagerWithMassives5P.deps.json
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/bin/Debug/net8.0/FamilyBudgetManagerWithMassives5P.runtimeconfig.json
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/bin/Debug/net8.0/FamilyBudgetManagerWithMassives5P.dll
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/bin/Debug/net8.0/FamilyBudgetManagerWithMassives5P.pdb
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.dll
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/refint/FamilyBudgetManagerWithMassives5P.dll
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.pdb
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/FamilyBudgetManagerWithMassives5P.genruntimeconfig.cache
+/home/ndrxx/.NETchallanges/FamilyBudgetManagerWithMassives5P/obj/Debug/net8.0/ref/FamilyBudgetManagerWithMassives5P.dll
