@@ -2,6 +2,13 @@
 bin/
 obj/
 
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
 # Ignore user-specific files
 .vscode/
 
